@@ -80,4 +80,4 @@ def main(name, as_cowboy):
     print(type(r))
     req = requests.get(r['poster'])
     img = Image.open(StringIO(req.content))
-img.show()
+    img.show()
