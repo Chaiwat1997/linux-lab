@@ -1,21 +1,45 @@
-# instagramPhoto
+##Projest หารูปนักเตะและโค้ช ของ ทีม Liverpool in England .
 
-instagramPhoto
+##นายไชยวัฒน์   สีสมยา
+
+##เข้าไปโฟเดอร์ ที่อยู่ไฟล์
+
+```sh
+cd linux-lab/ProjectPhotoLiverpool
+```
+
+- ติดตั้ง package ที่จำเป็น
+```sh
+pip install --user click requests Pillow lmxl bs4
+```
+- ติดตั้ง
+```sh
+pip install --user .
+```
+- ทดสอบ
+```sh
+ProjectPhotoLiverpool jurgen-klopp
+ProjectPhotoLiverpool jordan-henderson
+```
+
+# List Players teams Manchester City
+*jurgen-klopp
+
+*jordan-henderson
+
+*adam-lallana
+
+*philippe-coutinho
+
+*roberto-firmino
+
+*simon-mignolet
+
+*emre-can
+
+*dejan-lovren
+
+*jon-flanagan
 
 
-# Installation
-
-If you don't use `pipsi`, you're missing out.
-Here are [installation instructions](https://github.com/mitsuhiko/pipsi#readme).
-
-Simply run:
-
-    $ pipsi install .
-
-
-# Usage
-
-To use it:
-
-    $ instagramPhoto --help
 
