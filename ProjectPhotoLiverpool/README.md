@@ -22,7 +22,7 @@ ProjectPhotoLiverpool jurgen-klopp
 ProjectPhotoLiverpool jordan-henderson
 ```
 
-# List Players teams Manchester City
+# List Players teams Liverpool
 *jurgen-klopp
 
 *jordan-henderson
